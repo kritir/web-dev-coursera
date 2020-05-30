@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assignment Solution for Module 2 - web dev</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <h1>Masonry Bonds</h1>
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="english">
+                <h2>English bonds</h2>
+                <p>
+                   English bond in brick masonry has one course of stretcher only and a course of header above it, i.e. it has two alternating courses of stretchers and headers. Headers are laid centred on the stretchers in course below and each alternate row is vertically aligned. To break the continuity of vertical joints, quoin closer is used in the beginning and end of a wall after first header. A quoin close is a brick cut lengthwise into two halves and used at corners in brick walls. 
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="stretcher">
+                <h2>Stretcher Bonds</h2>
+                <p>
+                    Longer narrow face of the brick is called as stretcher. This bond is sometimes known as running bond, is created when bricks are laid with only their stretchers showing, overlapping midway with the courses of bricks below and above.But the limitation of stretcher bond is that it cannot make effective bonding with adjacent bricks in full width thick brick walls. They are suitably used only for one-half brick thick walls such as for the construction half brick thick partition wall. Walls constructed with stretcher bonds are not stable enough to stand alone in case of longer span and height. Thus, they then need supporting structure such as brick masonry columns at regular intervals. 
+Stretcher bonds are commonly used in the steel or reinforced concrete framed structures as the outer facing. These are also used 
+as the outer facing of cavity walls. Other common applications of such walls are the boundary walls, gardens etc. 
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-12 col-sm-12">
+            <section class="flemish">
+                <h2>Flemish Bonds</h2>
+                <p>
+				The thickness of Flemish bond is minimum one full brick. The disadvantage of using Flemish bond is that construction of Flemish bond is difficult and requires greater skill to lay it properly as all vertical mortar joints need to be aligned vertically for best effects. For the breaking of vertical joints in the successive courses, closers are inserted in alternate courses next to the quoin header. In walls having their thickness equal to odd number of half bricks, bats are used to achieve the bond. 
+Flemish bonds have better appearance but are weaker than English bonds for load bearing wall construction. Thus, if the pointing has to be done for brick masonry walls, then Flemish bond may be used for better aesthetic view. If the walls have to be plastered, then it is better to use English bond. 
+                </p>
+            </section>
+        </div>
+    </div>
+</body>
+
+</html>
